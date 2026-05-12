@@ -4,7 +4,7 @@ Este es un microservicio desarrollado en **Java con Spring Boot** para la gesti�
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 * **Java 21** o superior.
 * **Spring Boot 4.x** (Spring Web).
